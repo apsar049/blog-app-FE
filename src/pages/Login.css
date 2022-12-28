@@ -1,0 +1,40 @@
+.container{
+    width: 30%;
+    margin: 0 auto;
+    background: rgb(218, 209, 209);
+    margin-top: 50px;
+    border-radius:15px
+}
+
+
+
+.email,.password,.check{
+
+text-align: left;
+margin:15px
+
+}
+
+ input:nth-child(2){
+
+   border: none;
+   border-radius: 5px;
+   height: 30px;
+   width: 80%;
+}
+
+button{
+    width: 80%;
+    margin: 5px;
+    background-color: rgb(220, 129, 129);
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.signup{
+    text-decoration: underline;
+    padding: 5px;
+    font-size: 15px;
+}

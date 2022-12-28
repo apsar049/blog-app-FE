@@ -1,0 +1,16 @@
+.Nav-container{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+background: rgb(6, 154, 173);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
